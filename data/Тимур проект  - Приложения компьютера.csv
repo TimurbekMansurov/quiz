@@ -1,0 +1,12 @@
+[
+    { "question": "Это текстовый редактор?", "options": ["да", "нет"], "answer": "нет", "type": "img" },
+    { "question": "Это текстовый редактор?", "options": ["да", "нет"], "answer": "да", "type": "img" },
+    { "question": "Это графический редактор?", "options": ["да", "нет"], "answer": "нет", "type": "img" },
+    { "question": "Это текстовый редактор?", "options": ["да", "нет"], "answer": "нет", "type": "img" },
+    { "question": "Это графический редактор?", "options": ["да", "нет"], "answer": "да", "type": "img" },
+    { "question": "Это графический редактор?", "options": ["да", "нет"], "answer": "да", "type": "img" },
+    { "question": "Назовите известные вам графические редакторы(не менее 2)", "options": ["Adobe Photoshop", "GIMP", "Krita", "Photofiltre", "Paint.NET", "Canva", "Paint"], "answer": [], "type": "print" },
+    { "question": "Назовите известные вам текствые редакторы(не менее 2)", "options": ["Lotus WordPro", "Microsoft Word", "Microsoft Works", "OpenOffice.org" "Writer", "PolyEdit", "WordPad", "WordPerfect", "WPS Office Writer"], "answer": [], "type": "print" },
+    { "question": "Назовите известные вам музыкальные редакторы(не менее 2)", "options": ["Adobe Audition", "Traction" 4, "Cubase", "Mixcraft", "MU. Lab"], "answer": [], "type": "print" },
+    { "question": "Назовите известные вам видеоредакторы(не менее 2)", "options": ["MAGIX Movie Edit Pro", "CyberLink PowerDirector", "Corel VideoStudio Pro", "AVS Video Editor", "be Premiere Pro CC"], "answer": [], "type": "print" }
+]

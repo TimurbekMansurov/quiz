@@ -1,0 +1,12 @@
+[
+    { "question": "Входит ли браузер Internet Explorer в ПО windows?", "options": ["да", "нет"], "answer": "да", "type": "img" } ,
+    { "question": "Какие виды ПО бывают?", "options": ["прикладное", "основное", "инструментальное", "linux"], "answer": ["прикладное", "инструментальное"], "type": "text" } ,
+    { "question": "Что относят к системным ПО?", "options": ["драйверы", "браузер", "мессенджер", "OC"], "answer": ["драйверы", "OC"], "type": "text" } ,
+    { "question": "Что относят к прикладному ПО?", "options": ["графический редактор", "браузер", "строка поиска", "VS Code"], "answer": ["графический редактор", "браузер"], "type": "text" } ,
+    { "question": "Что относят к инструментальному ПО?", "options": ["графический редактор", "браузер", "строка поиска", "VS Code", "командная строка"], "answer": ["VS Code", "командная строка"], "type": "text" } ,
+    { "question": "Когда было создано ПО windows?", "options": ["1985", "1994", "1984", "1996"], "answer": "1985", "type": "text" } ,
+    { "question": "Когда было создано ПО Linux?", "options": ["1985", "1994", "1984", "1997"], "answer": "1994", "type": "text" } ,
+    { "question": "Когда было создано ПО mac OS?", "options": ["1985", "1994", "1984", "1998"], "answer": "1984", "type": "text" } ,
+    { "question": "Какая компания создала Windows?", "options": ["Microsoft", "Apple", "DEC"], "answer": "Microsoft", "type": "text" } ,
+    { "question": "Какая компания создала Mac OS?", "options": ["Microsoft", "Apple", "DEC"], "answer": "Apple", "type": "text" } 
+]
